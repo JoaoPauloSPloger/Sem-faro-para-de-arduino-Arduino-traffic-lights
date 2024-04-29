@@ -1,0 +1,2 @@
+Green light must be positioned at digital port number 8, yellow for 9 and red for 10. Green light is going to be on for 25 seconds, yellow for 4 and red for 2, according to a small google search i made lol
+A luz verde deve ser posicionada na porta digital úmero 8, a amarela na porta 9 e a vermelha na porta 10. A luz verde ficará acesa por 25 segundos, a amarela por 4 segundos e a vermelha por 2 segundos, de acordo com uma pequena pesquisa que fiz no google kkkk
